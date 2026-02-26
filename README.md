@@ -34,7 +34,7 @@
 
   ## Contato
 
-  [LinkedIn](https://linkedin.com/in/caio-willeman) · caiowilleman@gmail.com
+  [LinkedIn](https://www.linkedin.com/in/caio-willeman-3a6984247/) · caiowilleman@gmail.com
 
   ---
 
