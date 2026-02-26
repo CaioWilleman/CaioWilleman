@@ -1,6 +1,4 @@
- ---
- # Caio Leal Willeman                                                                                                                                                                                                                                                           Engenheiro de software com foco em sistemas de IA. Trabalhei na AIHO, startup de detecção oportunística de doenças vasculares, onde fui responsável pelo stack — da infraestrutura AWS ao frontend React, passando por pipelines de ML e 
-  integração com WhatsApp.
+  ---                                                                                                                                                                         # Caio Willeman                                                                                                                                                                                                                                                                                                                                         Engenheiro de software com foco em sistemas de IA aplicada à saúde. Trabalhei na AIHO, startup de detecção oportunística de doenças vasculares, onde fui responsável por    todo o stack — da infraestrutura AWS ao frontend React, passando por pipelines de ML e integração com WhatsApp.
 
   ---
 
